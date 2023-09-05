@@ -1,0 +1,82 @@
+STANDARD
+
+Average Cumulative Reward: 4.25
+Average player1 Reward: 1.92
+Average player2 Reward: 2.33
+Cooperative Percentage player1: 45.83%
+Cooperative Percentage player2: 37.5%
+Defective Percentage player1: 54.17%
+Defective Percentage player2: 62.5%
+Combinations [CC, CD, DC, DD]: [ 90. 180. 240. 210.]
+
+
+HIGHER_PAYOFF_C
+
+Average Cumulative Reward: 8.0
+Average player1 Reward: 4.0
+Average player2 Reward: 4.0
+Cooperative Percentage player1: 100.0%
+Cooperative Percentage player2: 100.0%
+Defective Percentage player1: 0.0%
+Defective Percentage player2: 0.0%
+Combinations [CC, CD, DC, DD]: [720.   0.   0.   0.]
+
+
+HIGHER_PAYOFF_T_LOWER_C
+
+Average Cumulative Reward: 5.83
+Average player1 Reward: 0.04
+Average player2 Reward: 5.79
+Cooperative Percentage player1: 95.83%
+Cooperative Percentage player2: 0.0%
+Defective Percentage player1: 4.17%
+Defective Percentage player2: 100.0%
+Combinations [CC, CD, DC, DD]: [  0.   0. 690.  30.]
+
+
+HIGHER_MAX_ROUNDS
+
+Average Cumulative Reward: 4.88
+Average player1 Reward: 2.91
+Average player2 Reward: 1.97
+Cooperative Percentage player1: 46.88%
+Cooperative Percentage player2: 65.62%
+Defective Percentage player1: 53.12%
+Defective Percentage player2: 34.38%
+Combinations [CC, CD, DC, DD]: [240. 390. 210. 120.]
+
+
+LOWER_EPSILON_VALUE
+
+Average Cumulative Reward: 6.0
+Average player1 Reward: 3.0
+Average player2 Reward: 3.0
+Cooperative Percentage player1: 100.0%
+Cooperative Percentage player2: 100.0%
+Defective Percentage player1: 0.0%
+Defective Percentage player2: 0.0%
+Combinations [CC, CD, DC, DD]: [720.   0.   0.   0.]
+
+
+HIGHER_EPSILON_VALUE
+
+Average Cumulative Reward: 5.29
+Average player1 Reward: 4.0
+Average player2 Reward: 1.29
+Cooperative Percentage player1: 41.67%
+Cooperative Percentage player2: 95.83%
+Defective Percentage player1: 58.33%
+Defective Percentage player2: 4.17%
+Combinations [CC, CD, DC, DD]: [300. 390.   0.  30.]
+
+
+HIGHER_HISTORY_LENGHT
+
+Average Cumulative Reward: 6.0
+Average player1 Reward: 3.0
+Average player2 Reward: 3.0
+Cooperative Percentage player1: 100.0%
+Cooperative Percentage player2: 100.0%
+Defective Percentage player1: 0.0%
+Defective Percentage player2: 0.0%
+Combinations [CC, CD, DC, DD]: [720.   0.   0.   0.]
